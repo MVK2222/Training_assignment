@@ -1,3 +1,10 @@
+"""
+Logic:
+    Provide a small `is_prime` function that returns True for prime numbers
+    and False otherwise. The script reads an integer from input and prints
+    the boolean result.
+"""
+
 def is_prime(n):
     if n <= 1:
         return False

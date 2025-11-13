@@ -1,4 +1,13 @@
-import pandas_6 as pd
+"""
+Synopsis: Create an employee DataFrame and filter by salary percentage.
+
+Purpose:
+    Build a pandas DataFrame of employees with Salary, compute each employee's
+    percentage of total salary, and print rows with Percentage > 75.
+
+"""
+
+import pandas as pd
 
 employee_df=pd.DataFrame({
     'Name':['Mohan', 'Veeru', 'Hareesh', 'Prany', 'Ajay'],

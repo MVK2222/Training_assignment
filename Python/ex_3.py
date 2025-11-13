@@ -1,3 +1,10 @@
+"""
+Logic:
+    - Accept a space-separated string from the user.
+    - Convert the string into a tuple.
+    - Convert the tuple into a set and sort it.
+"""
+
 str_list = input("Enter the string: ").split()
 print(type(str_list))
 

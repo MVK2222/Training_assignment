@@ -1,3 +1,10 @@
+"""
+Logic:
+    - Define a BankAccount class with private balance.
+    - Implement deposit and withdraw methods with validation.
+    - Provide a method to retrieve the current balance.
+"""
+
 class BankAccount:
     def __init__(self, account_holder, balance=0):
         self.account_holder = account_holder

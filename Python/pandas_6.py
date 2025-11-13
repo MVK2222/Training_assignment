@@ -1,3 +1,10 @@
+"""
+Logic:
+    - Create a pandas Series with Celsius temperatures.
+    - Convert each temperature to Fahrenheit.
+    - Store the Fahrenheit values in another Series.
+"""
+
 import pandas_6 as pd
 
 temperature_list=[23, 25, 19, 30, 22, 27, 21, 24, 26, 28]

@@ -1,3 +1,11 @@
+"""
+Logic:
+    - Create a 1D array of numbers from 1 to 25 using numpy.
+    - Reshape the array into a 5x5 matrix.
+    - Extract the diagonal elements of the matrix.
+    - Compute the sum of the diagonal elements.
+"""
+
 import numpy as np
 
 num=np.arange(1,26)

@@ -1,3 +1,10 @@
+"""
+Logic:
+    - Accept a list of integers from the user.
+    - Check each number to determine if it is even.
+    - Collect all even numbers and sort them in descending order.
+"""
+
 def is_even(n):
         if n % 2 == 0:
             return True
