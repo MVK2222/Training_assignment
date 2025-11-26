@@ -116,6 +116,7 @@ pip install -r requirements.txt
 #### Example requirements.txt
 ```
 azure-functions
+azure-functions-durable
 azure-cosmos
 pyodbc
 ```
