@@ -11,5 +11,5 @@ class Car(Vahicle):
     def car_info(self):
         return f"{self.display_info()}, Number of Doors: {self.num_doors}"
 
-my_car = Car("Toyota", "Corolla",4)
+my_car = Car("Tata", "Nano",4)
 print(my_car.car_info())
