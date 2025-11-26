@@ -1,0 +1,212 @@
+[
+  {
+    "id": "101",
+    "name": "Pro Hammer 2000",
+    "price": 25.50,
+    "category": "Tools",
+    "tags": ["steel", "heavy", "warranty"]
+  },
+  {
+    "id": "102",
+    "name": "Sonic Screwdriver",
+    "price": 120.00,
+    "category": "Electronics",
+    "tags": ["wireless", "battery-included"]
+  },
+  {
+    "id": "103",
+    "name": "Cheap Nails (Bulk)",
+    "price": 2.99,
+    "category": "Hardware",
+    "tags": []
+  },
+  {
+    "id": "104",
+    "name": "Garden Hose 50ft",
+    "price": 35.00,
+    "category": "Garden",
+    "tags": ["outdoor", "summer-sale"]
+  },
+  {
+    "id": "105",
+    "name": "Industrial Fan",
+    "price": 299.99,
+    "category": "Appliances",
+    "tags": ["heavy", "fragile", "electric"]
+  },
+  {
+    "id": "106",
+    "name": "PVC Pipe 10ft",
+    "price": 8.50,
+    "category": "Plumbing",
+    "tags": ["bulk"]
+  },
+  {
+    "id": "107",
+    "name": "Safety Goggles",
+    "price": 15.00,
+    "category": "Safety",
+    "tags": ["plastic", "ppe"]
+  },
+  {
+    "id": "108",
+    "name": "Mystery Box",
+    "price": 50.00,
+    "category": "Misc",
+    "tags": ["clearance"]
+  },
+  {
+    "id": "109",
+    "name": "Drill Bit Set",
+    "price": 45.00,
+    "category": "Tools",
+    "tags": ["steel", "case-included", "sharp"]
+  },
+  {
+    "id": "110",
+    "name": "Ladder 12ft",
+    "price": 150.00,
+    "category": "Tools",
+    "tags": ["aluminum", "heavy"]
+  },
+  {
+    "id": "111",
+    "name": "Electric Kettle",
+    "price": 60.00,
+    "category": "Appliances",
+    "tags": ["fragile", "electric"]
+  },
+    {
+        "id": "112",
+        "name": "Wireless Mouse",
+        "price": 25.00,
+        "category": "Electronics",
+        "tags": ["wireless", "battery-included"]
+    },
+    {
+        "id": "113",
+        "name": "LED Desk Lamp",
+        "price": 45.00,
+        "category": "Electronics",
+        "tags": ["electric", "fragile"]
+    },
+    {
+        "id": "114",
+        "name": "Cordless Drill",
+        "price": 85.00,
+        "category": "Tools",
+        "tags": ["wireless", "battery-included", "heavy"]
+    },
+    {
+        "id": "115",
+        "name": "Extension Cord 25ft",
+        "price": 20.00,
+        "category": "Electronics",
+        "tags": ["electric"]
+    },
+    {
+        "id": "116",
+        "name": "Toolbox",
+        "price": 40.00,
+        "category": "Tools",
+        "tags": ["steel", "case-included"]
+    },
+    {
+        "id": "117",
+        "name": "Pressure Washer",
+        "price": 250.00,
+        "category": "Garden",
+        "tags": ["electric", "heavy"]
+    },
+    {
+        "id": "118",
+        "name": "Work Gloves",
+        "price": 12.00,
+        "category": "Safety",
+        "tags": ["ppe"]
+    },
+    {
+        "id": "119",
+        "name": "Measuring Tape 25ft",
+        "price": 10.00,
+        "category": "Tools",
+        "tags": ["plastic"]
+    },
+    {
+        "id": "120",
+        "name": "Air Compressor",
+        "price": 300.00,
+        "category": "Tools",
+        "tags": ["heavy", "electric"]
+    },
+    {
+        "id": "121",
+        "name": "Smart Thermostat",
+        "price": 200.00,
+        "category": "Electronics",
+        "tags": ["wireless", "electric"]
+    },
+    {
+        "id": "122",
+        "name": "Bluetooth Speaker",
+        "price": 75.00,
+        "category": "Electronics",
+        "tags": ["wireless", "battery-included"]
+    },
+    {
+        "id": "123",
+        "name": "Corded Circular Saw",
+        "price": 180.00,
+        "category": "Tools",
+        "tags": ["electric", "heavy"]
+    },
+    {
+        "id": "124",
+        "name": "Wall-Mounted Shelves",
+        "price": 55.00,
+        "category": "Home Improvement",
+        "tags": ["fragile"]
+    },
+    {
+        "id": "125",
+        "name": "Rechargeable Flashlight",
+        "price": 30.00,
+        "category": "Tools",
+        "tags": ["wireless", "battery-included"]
+    },
+    {
+        "id": "126",
+        "name": "Digital Multimeter",
+        "price": 65.00,
+        "category": "Electronics",
+        "tags": ["electric", "fragile"]
+    },
+    {
+        "id": "127",
+        "name": "Heavy-Duty Workbench",
+        "price": 400.00,
+        "category": "Tools",
+        "tags": ["heavy", "steel"]
+    },
+    {
+        "id": "128",
+        "name": "Outdoor String Lights",
+        "price": 35.00,
+        "category": "Garden",
+        "tags": ["electric", "outdoor"]
+    },
+    {
+        "id": "129",
+        "name": "Plumbing Wrench Set",
+        "price": 50.00,
+        "category": "Plumbing",
+        "tags": ["steel", "case-included"]
+    },
+    {
+        "id": "130",
+        "name": "Electric Paint Sprayer",
+        "price": 150.00,
+        "category": "Home Improvement",
+        "tags": ["electric", "fragile"]
+    }
+]
