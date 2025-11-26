@@ -5,14 +5,13 @@ Logic:
     - Store the Fahrenheit values in another Series.
 """
 
-import pandas_6 as pd
+import pandas as pd
 
 temperature_list=[23, 25, 19, 30, 22, 27, 21, 24, 26, 28]
 temperature_series=pd.Series(temperature_list)
 print("================================")
 print("Temperature Series:\n", temperature_series)
 print("================================")
-print("Temperature Series:\n", temperature_series)
 print("\n")
 cels_to_fahe=[]
 for i in temperature_series:
