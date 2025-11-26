@@ -45,6 +45,9 @@ This project provides an Azure Durable Function solution for migrating product d
 ### SQL Table Example
 ![SQL Table](sql_db.png)
 
+### Terminal Output Example
+![Terminal Output](terminal_output.png)
+
 ---
 
 ## How It Works
