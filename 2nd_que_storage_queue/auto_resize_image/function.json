@@ -1,0 +1,12 @@
+{
+  "scriptFile": "init.py",
+  "bindings": [
+    {
+      "name": "msg",
+      "type": "queueTrigger",
+      "direction": "in",
+      "queueName": "image-jobs",
+      "connection": "AzureWebJobsStorage"
+    }
+  ]
+}
