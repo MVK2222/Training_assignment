@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/.venv" />
+      <excludeFolder url="file://$MODULE_DIR$/6th_question_clean_up/.venv" />
+      <excludeFolder url="file://$MODULE_DIR$/9th_question_data_migration/.venv" />
+      <excludeFolder url="file://$MODULE_DIR$/function_app_assessment/1st_question_CRUD/.idea" />
+      <excludeFolder url="file://$MODULE_DIR$/function_app_assessment/1st_question_CRUD/.venv" />
+      <excludeFolder url="file://$MODULE_DIR$/function_app_assessment/2nd_question_resize_image/.venv" />
+      <excludeFolder url="file://$MODULE_DIR$/function_app_assessment/3rd_question_auto_index/.venv" />
+    </content>
+    <orderEntry type="jdk" jdkName="Python 3.13 virtualenv at D:\Mazenet\Training_assignment\9th_question\.venv" jdkType="Python SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
