@@ -184,3 +184,11 @@ az storage container create -n archive --account-name <storageName>
   ```
   before and after execution to see the delta.
 - **Metrics**: Enable Application Insights to chart execution count, failures, and duration.
+
+### Sample Terminal Output
+![Timer cleanup logs](terminal_output.png)
+
+---
+
+## Troubleshooting
+
