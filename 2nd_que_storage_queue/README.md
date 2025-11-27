@@ -43,3 +43,12 @@ This Azure Functions app provides a two-step pipeline: an HTTP endpoint uploads 
 - Successful uploads respond with the blob name and confirmation that a queue message was added.
 - The queue trigger logs each resize cycle (see `terminal_output.png` above for a sample run). A sample Postman request screenshot is available at `postman_request.png`.
 ![Postman request](postman_request.png)
+
+Messages in the queue look like this:
+```json
+{
+  "blobUrl": "https://<your_storage_account>.blob.core.windows.net/uploads/your_image.jpg",
+  "sizes": [320, 1024]
+}
+```
+![Function host output](Screenshot 2025-11-27 123824.png)
