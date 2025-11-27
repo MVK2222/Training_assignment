@@ -1,0 +1,12 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "FUNCTIONS_WORKER_RUNTIME": "python",
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=mohansblob;AccountKey=9lYThzrrwyDTZebrYTPr+O6n07co5/mUi4sqdNP0ecxP0kyCdHQZ6h/7nK71N7ayvZxUIUfIErGn+AStZg/EMg==;EndpointSuffix=core.windows.net",
+    "ARCHIVE_CONTAINER": "archive",
+    "BATCH_SIZE": "1000",
+    "DAYS_OLD": "30",
+    "DISABLE_SQL": "true",
+    "SQL_CONN_STR": "Driver={ODBC Driver 18 for SQL Server};Server=tcp:mohan-sql-server.database.windows.net,1433;Database=mohan-sql-db;Uid=mohan;Pwd=Admin123;Encrypt=yes;TrustServerCertificate=no;Connection Timeout=30;"
+  }
+}
